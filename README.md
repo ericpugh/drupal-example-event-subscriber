@@ -2,4 +2,4 @@
 
 A simple module demonstrating which adds an event subscriber listening
 for the [DigitalGov Search](https://github.com/ericpugh/drupal-usasearch) 
-module's usasearch.requestevent.
+module's usasearch.request event.
