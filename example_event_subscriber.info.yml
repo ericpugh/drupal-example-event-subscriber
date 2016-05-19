@@ -1,0 +1,6 @@
+name: Example Event Subscriber
+description: 'An example module, subscribes to a usasearch.request event.'
+core: 8.x
+type: module
+dependencies:
+  - usasearch
